@@ -7,7 +7,7 @@
 - 🎓 Graduate Student in Information Management @ University of Illinois Urbana-Champaign
 - 🛠️ Data Scientist | AI/ML Enthusiast | Cloud Solutions Explorer
 - 🏆 Former Analyst at Deloitte | ML Research Intern at Drongo AI
-- 🌐 Passionate about building real-world applications in Fraud Detection, Stock Market Analysis, Financial Analytics, and Computer Vision
+- 🌐 Passionate about building real-world applications in Healthcare, Fraud Detection, Stock Market Analysis, Financial Analytics, and Computer Vision
 
 
 ## 🧠 Highlighted Projects
