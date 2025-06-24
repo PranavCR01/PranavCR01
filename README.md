@@ -21,7 +21,7 @@
 - **Geospatial and Temporal Analysis of Chicago Crime**
   - Conducted crime trend forecasting and hotspot identification using R, Plotly, and time series analysis.
 
-- **Mishathi: A Smart Vision System (IEEE Xplore Published)**
+- **Mishathi: A Smart Vision System [(IEEE Xplore Published)](https://ieeexplore.ieee.org/document/9754032)**
   - Raspberry Pi–based assistive AI system achieving 96.6% detection accuracy for the visually impaired.
 
 ---
