@@ -1,16 +1,16 @@
-# 👋 Hi there, I'm Pranav Rajesh Charakondala!
+#  Hi there, I'm Pranav Rajesh Charakondala!
 
 ---
 
-## 📚 About Me
+##  About Me
 
-- 🎓 Graduate Student in Information Management @ University of Illinois Urbana-Champaign
-- 🛠️ Data Scientist | AI/ML Enthusiast | Cloud Solutions Explorer
-- 🏆 Former Analyst at Deloitte | ML Research Intern at Drongo AI
-- 🌐 Passionate about building real-world applications in Healthcare, Fraud Detection, Stock Market Analysis, Financial Analytics, and Computer Vision
+-  Graduate Student in Information Management @ University of Illinois Urbana-Champaign
+-  Data Scientist | AI/ML Enthusiast | Cloud Solutions Explorer
+-  Former Analyst at Deloitte | ML Research Intern at Drongo AI
+-  Passionate about building real-world applications in Healthcare, Fraud Detection, Stock Market Analysis, Financial Analytics, and Computer Vision
 
 
-## 🧠 Highlighted Projects
+##  Highlighted Projects
 
 - **LLM-Driven NLP System for Stock Market Analysis**
   - Built an automated financial recommendation system using CrewAI agents, FinBERT sentiment analysis, and OpenAI GPT-4.
@@ -26,7 +26,7 @@
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 - **Languages**: Python, SQL, R, Java, C, JavaScript, Apex
 - **Libraries & Frameworks**: PyTorch, TensorFlow, Keras, Hugging Face, OpenCV, Scikit-learn
@@ -37,15 +37,15 @@
 ---
 
 
-## 📬 Let's Connect!
+##  Let's Connect!
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/pranav-c-r-852752202/)
-- 🛠️ [GitHub](https://github.com/PranavCR01)
-- 📧 Email: prc4@illinois.edu
+-  [LinkedIn](https://www.linkedin.com/in/pranav-c-r-852752202/)
+-  [GitHub](https://github.com/PranavCR01)
+-  Email: prc4@illinois.edu
 
 ---
 
-### ⚡ Fun Fact:
+###  Fun Fact:
 > I treat debugging code like solving mysteries — except the "suspect" is always me.
 
 
